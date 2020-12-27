@@ -1,6 +1,5 @@
 
 # VigenereSolver
-# Parameter: Filename which contains cypher text
 # Sleethers 2020
 
 import string
